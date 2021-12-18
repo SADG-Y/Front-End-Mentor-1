@@ -16,7 +16,6 @@
 body {
     font-size: 15px;
     background-color: var(--Very-dark-blue);
-    overflow-y: hidden;
 }
 
 .card {
