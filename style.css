@@ -114,7 +114,7 @@ div.stats span:nth-child(6) {
 
 @media(max-width: 700px) {
     .card {
-        margin-top: 40px;
+        margin-top: 30px;
         margin-left: 30px;
         margin-right: 0;
         margin-bottom: 0;
