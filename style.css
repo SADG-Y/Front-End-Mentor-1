@@ -31,7 +31,7 @@ body {
 }
 
 .img {
-    background-image: url(/images/image-header-desktop.jpg);
+    background-image: url(images/image-header-desktop.jpg);
     grid-area: image;
     width: 30vw;
     height: 50vh;
