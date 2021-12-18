@@ -19,8 +19,8 @@ body {
 }
 
 .card {
-    margin: 200px;
-    margin-left: 250px;
+    margin-top: 25vh;
+    margin-left: 17vw;
     padding: 0;
     display: grid;
     grid-template-areas: 'heading image' 'para image' 'attri image';
