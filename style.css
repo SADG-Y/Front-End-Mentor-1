@@ -124,7 +124,7 @@ div.stats span:nth-child(6) {
     }
     .img {
         grid-area: image;
-        background-image: url(/images/image-header-mobile.jpg);
+        background-image: url(images/image-header-mobile.jpg);
         background-size: cover;
         width: 85vw;
         height: 30vh;
