@@ -62,12 +62,12 @@ p {
 
 .stats {
     display: grid;
-    margin-top: 70px;
+    margin-top: 2vh;
     grid-column: 3;
     grid-row: 2;
     grid-template-areas: "first second third" "comp temp quer";
     font-family: "Lexend Deca", sans-serif;
-    grid-gap: 8px;
+    grid-gap: 4px;
 }
 
 div.stats span:nth-child(1) {
