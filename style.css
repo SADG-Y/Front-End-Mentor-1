@@ -130,7 +130,7 @@ div.stats span:nth-child(6) {
         height: 30vh;
     }
     .stats {
-        margin-top: 30px;
+        margin-top: 1vh;
         grid-area: stats;
         grid-template-areas: "first" "comp" "second" "temp" "third" "quer";
         grid-gap: 1px;
@@ -158,7 +158,7 @@ div.stats span:nth-child(6) {
         text-align: center;
     }
     div.stats span:nth-child(3) {
-        margin-top: 20px;
+        margin-top: 1vh;
         text-align: center;
         font-size: 7vw;
     }
@@ -166,7 +166,7 @@ div.stats span:nth-child(6) {
         text-align: center;
     }
     div.stats span:nth-child(5) {
-        margin-top: 20px;
+        margin-top: 1vh;
         text-align: center;
         font-size: 7vw;
     }
